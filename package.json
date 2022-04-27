@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pinata/sdk": "^1.1.25",
+    "dotenv": "^16.0.0"
+  }
+}
